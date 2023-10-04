@@ -1,0 +1,7 @@
+#instalar dependencias:
+-npm install
+
+#correr el projecto:
+-npm run dev
+
+#en dbConnectiion cambiar por la configuracion de la base  host,user, password, port,database
